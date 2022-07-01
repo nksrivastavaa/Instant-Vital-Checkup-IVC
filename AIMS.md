@@ -61,7 +61,7 @@ What we plan on doing in the future: <br />
 2)Start doing diagnosis for many basic diseases and structural deformities. <br />
 3)Expanding into developing models that predict diseases based on symptoms. <br />
 
-![Original_timeline]()
-![new_timeline]()
-![future]()
-![flaws]()
+![Original_timeline](https://github.com/nksrivastavaa/Instant-Vital-Checkup-IVC-/blob/main/Canva_Images/5.png)
+![new_timeline](https://github.com/nksrivastavaa/Instant-Vital-Checkup-IVC-/blob/main/Canva_Images/7.png)
+![future](https://github.com/nksrivastavaa/Instant-Vital-Checkup-IVC-/blob/main/Canva_Images/8.png)
+![flaws](https://github.com/nksrivastavaa/Instant-Vital-Checkup-IVC-/blob/main/Canva_Images/9.png)
